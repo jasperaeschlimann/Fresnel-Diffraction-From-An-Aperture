@@ -19,7 +19,7 @@ Diffraction refers to the phenomenon of light bending around obstacles or throug
 Simply download or clone the Python file `fresnel_diffraction.py` from this repository to your local machine. Ensure you have Python 3.x installed. No additional dependencies are required.
 
 ## Report
-A detailed PDF 'Report.pdf' is included in this repository. This report contains comprehensive documentation of the theoretical calculations and findings obtained from the diffraction simulations performed by the program. It offers some insight into suitable parameters for generating diffraction patterns.
+A detailed PDF `Report.pdf` is included in this repository. This report contains comprehensive documentation of the theoretical calculations and findings obtained from the diffraction simulations performed by the program. It offers some insight into suitable parameters for generating diffraction patterns.
 
 ## Authors
 
